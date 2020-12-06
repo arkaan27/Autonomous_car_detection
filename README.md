@@ -1,6 +1,6 @@
 # Summary
 
-This NN uses "You Only Look Once" (YOLO) algorithm with displaying bounding boxes. It displays box by using non-max supression to output only 1 bounding box per object.
+This NN aims to target object detection by using "You Only Look Once" (YOLO) algorithm with displaying bounding boxes. It displays box by using non-max supression to output only 1 bounding box per object. Particularly, it is used in autonomous driving to allow predicatable changes.
 
 # Neural Network Architecture
 
